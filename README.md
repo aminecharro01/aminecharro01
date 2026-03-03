@@ -1,69 +1,65 @@
-<!-- HEADER SECTION -->
-<h1 align="center">Salut 👋, moi c'est Amine Charro</h1>
-<h3 align="center">Futur ingénieur informatique basé à Rabat, passionné par le développement web, l'innovation, et les nouvelles technologies.</h3>
+<h1 align="center">Hi 👋, I'm Amine Charro</h1>
+<h3 align="center">Future IT Engineer based in Rabat, passionate about web development, innovation, and emerging technologies.</h3>
 
 <p align="center">
-  <a href="mailto:amine_charro@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/charroamine/"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Charro-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:amine_charro@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/charroamine/"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Charro-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/aminecharro01"><img src="https://img.shields.io/badge/GitHub-aminecharro01-blue?style=flat&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 🚀 À propos de moi
-
-🎓 Étudiant en cycle d'ingénieur à l'**EMSI Rabat**, avec un diplôme en développement web fullstack.  
-💡 Intéressé par l’**intelligence artificielle**, le **développement logiciel**, la **gestion de projet**, et l’**innovation numérique**.  
-🔍 À la recherche d’une opportunité où je pourrai appliquer mes compétences techniques, managériales et créatives.
-
----
-
-### 🛠️ Compétences techniques
-
-- **Langages**: JavaScript (React), PHP (Laravel), C++, Python, Java, SQL/T-SQL, MongoDB  
-- **Outils & Design**: Git/GitHub, Figma, Adobe Suite (Photoshop, Illustrator, Premiere Pro), Xd  
-- **Méthodes**: Travail en équipe, résolution de problèmes, gestion de temps, UX/UI
+### 🚀 About Me
+* 🎓 Engineering student at **EMSI Rabat**, holding a degree in Full-Stack Web Development.  
+* 💡 Deeply interested in **Artificial Intelligence**, **Software Engineering**, **Project Management**, and **Digital Innovation**.  
+* 🔍 Actively seeking opportunities to apply my technical, managerial, and creative problem-solving skills to real-world challenges.
 
 ---
 
-### 💼 Projets principaux
+### 🛠️ Technical Skills
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | JavaScript, PHP, Python, Java, C++, SQL/T-SQL |
+| **Frameworks & Libs** | React.js, Laravel |
+| **Databases** | MySQL, MongoDB |
+| **Design & Tools** | Git/GitHub, Figma, Adobe Suite (Photoshop, Illustrator, Premiere Pro, XD) |
+| **Core Competencies** | Agile/Scrum, UX/UI Principles, Problem Solving, Team Collaboration |
+
+---
+
+### 💼 Key Projects
 
 #### 🎯 [Helpdesk SOS247](https://github.com/aminecharro01/helpdesk_sos247)
-> Système de gestion de tickets d’assistance (Helpdesk) avec rôles multiples : client, agent, superviseur, admin.  
-> 🔧 Tech: Laravel, Blade, MySQL  
-> 🎯 Objectif: Centraliser le traitement des tickets avec un dashboard par rôle.
+> A comprehensive IT Support Ticketing System with role-based access control (Client, Agent, Supervisor, Admin).  
+> 🔧 **Tech Stack:** Laravel, Blade, MySQL  
+> 🎯 **Goal:** Centralize and streamline ticket resolution with customized dashboards for each user role.
 
 #### 🖥️ [Portfolio Web App](https://github.com/aminecharro01/portfolio)
-> Application web fullstack professionnelle pour présenter vos projets et expériences.  
-> ⚙️ Admin dashboard intégré pour une gestion dynamique.  
-> 🎨 Design soigné, responsive, adapté aux développeurs et freelances.
+> A professional full-stack web application designed to showcase projects and professional experience.  
+> ⚙️ Features an integrated admin dashboard for dynamic content management.  
+> 🎨 Responsive, clean UI tailored specifically for developers and freelancers.
 
 ---
 
 ### 📈 GitHub Stats
-
+<p align="center">
+  <img src="https://github.com/aminecharro01/aminecharro01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminecharro01&show_icons=true&theme=radical" alt="Amine's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminecharro01&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminecharro01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 En cours...
-
-- 📚 Cours en intelligence artificielle, big data, développement avancé.
-- 🧪 Expérimentations en design UX/UI, gestion de projet agile, frameworks modernes.
-
----
-
-### ✉️ Contact
-
-- 📬 Email : [amine_charro@yahoo.com](mailto:amine_charro@yahoo.com)
-- 🌐 LinkedIn : [charroamine](https://linkedin.com/in/charroamine/)
-- 📍 Localisation : Rabat, Maroc
+### 🧠 Currently Learning...
+* 📚 Diving deeper into Artificial Intelligence, Big Data, and advanced software architecture.
+* 🧪 Experimenting with Agile project management, modern UI/UX design trends, and next-gen frameworks.
 
 ---
 
-<!-- OPTIONNEL : Snake animation -->
-<!--
-![snake gif](https://github.com/aminecharro01/aminecharro01/blob/output/github-contribution-grid-snake.svg)
--->
+### ✉️ Let's Connect!
+* 📬 **Email:** [amine_charro@yahoo.com](mailto:amine_charro@yahoo.com)
+* 🌐 **LinkedIn:** [Amine Charro](https://linkedin.com/in/charroamine/)
+* 📍 **Location:** Rabat, Morocco
