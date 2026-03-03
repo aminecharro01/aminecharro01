@@ -62,11 +62,9 @@
 ---
 
 ### ✉️ Let's Connect
-- 📬 **Email:** [amine_charro@yahoo.com](mailto:amine_charro@yahoo.com)
+- 📬 **Email:** [amine_charro@yahoo.com](mailto:amine_charro@gmail.com)
 - 🌐 **LinkedIn:** [charroamine](https://linkedin.com/in/charroamine/)
 - 📍 **Location:** Rabat, Morocco
 
-<!-- OPTIONNEL : Snake animation -->
-<!--
+
 ![snake gif](https://github.com/aminecharro01/aminecharro01/blob/output/github-contribution-grid-snake.svg)
--->
