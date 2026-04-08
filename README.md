@@ -62,7 +62,7 @@
 ---
 
 ### ✉️ Let's Connect
-- 📬 **Email:** [amine_charro@gmail.com](mailto:aminecharro@gmail.com)
+- 📬 **Email:** [aminecharro@gmail.com](mailto:aminecharro@gmail.com)
 - 🌐 **LinkedIn:** [charroamine](https://linkedin.com/in/charroamine/)
 - 📍 **Location:** Rabat, Morocco
 
