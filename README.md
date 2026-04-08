@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amine Charro</h1>
 <h3 align="center">Future Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
 <p align="center">
-  <a href="mailto:amine_charro@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
+  <a href="mailto:aminecharro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/charroamine/"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Charro-blue?style=flat&logo=linkedin" /></a>
 </p>
 
@@ -62,7 +62,7 @@
 ---
 
 ### ✉️ Let's Connect
-- 📬 **Email:** [amine_charro@yahoo.com](mailto:amine_charro@gmail.com)
+- 📬 **Email:** [amine_charro@yahoo.com](mailto:aminecharro@gmail.com)
 - 🌐 **LinkedIn:** [charroamine](https://linkedin.com/in/charroamine/)
 - 📍 **Location:** Rabat, Morocco
 
