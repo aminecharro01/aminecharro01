@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-🎓 **Engineering Student (4/5)** at **EMSI Rabat**, specializing in Digital Development & Information Systems.
+🎓 **Engineering Student (5/5)** at **EMSI Rabat**, specializing in Digital Development & Information Systems.
 💡 Passionate about **Software Engineering**, **Agentic AI**, **Full-Stack Web Development**, and **UI/UX Design**.
 🏢 Former Web Development Intern at **INTELLCAP**, where I contributed to ERP solutions and microservices architectures.
 🔍 Currently exploring the intersection of AI and business to drive digital transformation.
