@@ -1,0 +1,89 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:       # run manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Overview card: profile header, activity, community + isometric calendar
+      - name: General overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aminecharro01
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Casablanca
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 2) Languages (replaces github-readme-stats top-langs)
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aminecharro01
+          template: classic
+          base: ""
+          config_timezone: Africa/Casablanca
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, scss, blade, dockerfile, shell
+
+      # 3) Coding habits + lines of code changed
+      - name: Habits & lines
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aminecharro01
+          template: classic
+          base: ""
+          config_timezone: Africa/Casablanca
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 200
+          plugin_lines: yes
+
+      # 4) Achievements
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aminecharro01
+          template: classic
+          base: ""
+          config_timezone: Africa/Casablanca
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+
+      # 5) Featured projects as live repository cards
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aminecharro01
+          template: classic
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: aminecharro01/RamadanAdhanTime, aminecharro01/crimeAnalytics, aminecharro01/GestionBiblioDotNet, aminecharro01/helpdesk_sos247
