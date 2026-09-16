@@ -74,13 +74,6 @@
 - 🐍 **Python for Data Science, AI & Development** (IBM)
 - 🏗️ **Software Engineering: Design & Project Management** (HKUST)
 
----
-
-### 📈 Coding Habits & Achievements
-<p align="center">
-  <img src="metrics.habits.svg" alt="Coding habits" />
-  <img src="metrics.achievements.svg" alt="GitHub achievements" />
-</p>
 
 ---
 
