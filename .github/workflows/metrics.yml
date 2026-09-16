@@ -14,6 +14,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # 1) Overview card: profile header, activity, community + isometric calendar
       - name: General overview
         uses: lowlighter/metrics@latest
@@ -86,4 +89,4 @@ jobs:
           template: classic
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: aminecharro01/RamadanAdhanTime, aminecharro01/crimeAnalytics, aminecharro01/GestionBiblioDotNet, aminecharro01/helpdesk_sos247
+          plugin_repositories_featured: aminecharro01/RamadanAdhanTime, aminecharro01/crimeAnalytics, aminecharro01/GestionBiblioDotNet, aminecharro01/Ch-halDaro, aminecharro01/Tadla, aminecharro01/WhiteLab
