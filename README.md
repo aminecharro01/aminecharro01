@@ -30,29 +30,29 @@
 > Multi-tenant SaaS inventory management platform (EMSI PFA, defended June 2026) — stock movements, purchase orders, POS, dashboards, and tenant-isolated RBAC.
 > 🔧 **Tech:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Next.js, TypeScript, Docker Compose, GitHub Actions CI.
 
-#### 🌙 [AdhanTime](https://github.com/aminecharro01/RamadanAdhanTime)
-> A modern spiritual companion for Ramadan 2026. Features a smart Khatmah tracker, dynamic atmosphere, and PWA support.
-> 🔧 **Tech:** React.js, Vite, Tailwind CSS, Framer Motion, PWA, LocalStorage.
-
 #### ⚽ [Ch'hal Daro](https://github.com/aminecharro01/Ch-halDaro)
-> Near real-time football live-scores platform with favorites, AI match analysis, and push notifications.
-> 🔧 **Tech:** Next.js, React, Supabase, Google Gemini, Web Push.
+> Near real-time football live-scores PWA with a backend-for-frontend layer, personalized Web Push alerts, and Gemini-generated match summaries with rule-based fallback. Live on Vercel.
+> 🔧 **Tech:** Next.js 16, React 19, Supabase, Google Gemini, Web Push.
+
+#### 📚 [GestionBiblioDotNet](https://github.com/aminecharro01/GestionBiblioDotNet)
+> Layered-architecture library management system — automated fine calculation, reservation queues, and a statistics dashboard.
+> 🔧 **Tech:** ASP.NET Core 8 MVC, Entity Framework Core, SQL Server, Bootstrap 5.
+
+#### 🏥 [WhiteLab](https://github.com/aminecharro01/WhiteLab)
+> Desktop medical-office management system — patients, medical records, interactive odontogram, scheduling, and billing across role-based dashboards.
+> 🔧 **Tech:** Java, Swing (FlatLaf), MySQL, Maven.
 
 #### ⚖️ [Crime Analytics Dashboard](https://github.com/aminecharro01/crimeAnalytics)
-> A criminal intelligence platform demonstrating **Polyglot Persistence** across Neo4j, MongoDB, MySQL, and Redis.
+> A criminal intelligence platform demonstrating **Polyglot Persistence** — Neo4j for network analysis (PageRank), MongoDB, MySQL, and Redis, each chosen for the data shape it suits best.
 > 🔧 **Tech:** React.js, Node.js, Express.js, Docker, GraphDB.
 
 #### 🗺️ [Tanmiya Explorer](https://github.com/aminecharro01/Tadla)
 > Smart tourism platform for Morocco's Béni Mellal–Khénifra region — AI itineraries, guide bookings, artisan marketplace.
 > 🔧 **Tech:** React, Vite, Firebase, Google Gemini, Leaflet.js.
 
-#### 🏥 [WhiteLab](https://github.com/aminecharro01/WhiteLab)
-> Desktop medical office management system — patients, medical records, scheduling, and billing.
-> 🔧 **Tech:** Java, Swing (FlatLaf), MySQL, Maven.
-
-#### 📚 [GestionBiblioDotNet](https://github.com/aminecharro01/GestionBiblioDotNet)
-> Advanced Library Management System with automated loans, reservation queues, and layered architecture.
-> 🔧 **Tech:** ASP.NET Core 8 MVC, EF Core, SQL Server, Bootstrap 5.
+#### 🌙 [AdhanTime](https://github.com/aminecharro01/RamadanAdhanTime)
+> A modern spiritual companion for Ramadan 2026. Features a smart Khatmah tracker, dynamic atmosphere, and PWA support.
+> 🔧 **Tech:** React.js, Vite, Tailwind CSS, Framer Motion, PWA, LocalStorage.
 
 <p align="center">
   <img src="metrics.repositories.svg" alt="Featured repositories" />
