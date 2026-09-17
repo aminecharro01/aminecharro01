@@ -27,35 +27,35 @@
 ### 💼 Featured Projects
 
 #### 🎓 [IAT Academy](https://github.com/aminecharro01/E-learning)
-> Full-stack e-learning platform for a 2-year aviation/tourism training program, built solo in 2 months during my internship: 31 REST controllers, 179 endpoints, 39 JPA entities, 45 migrations, 151 automated tests. Server-side progression enforcement, JWT + 2FA + RBAC with resource-level ownership checks, AI content generation with automatic provider failover.
+> Solo-built in 2 months: 179 REST endpoints, 39 entities, 151 automated tests. A full-stack e-learning platform for a 2-year aviation/tourism program, with progression rules enforced server-side, JWT + 2FA + RBAC down to the resource level, and AI content generation with automatic provider failover.
 > 🔧 **Tech:** Spring Boot 3, Java 21, PostgreSQL, Redis, Next.js 15, TypeScript, Docker.
 
 #### 📦 [StowFlow](https://github.com/aminecharro01/StowFlow)
-> Multi-tenant SaaS inventory management platform (EMSI PFA, defended June 2026) — stock movements, purchase orders, POS, dashboards, and tenant-isolated RBAC.
+> One backend, many companies, zero data leaks: a multi-tenant SaaS inventory platform with fully isolated tenant data, RBAC, stock movements, purchase orders, and POS — my EMSI end-of-year project, defended June 2026.
 > 🔧 **Tech:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Next.js, TypeScript, Docker Compose, GitHub Actions CI.
 
 #### ⚽ [Ch'hal Daro](https://github.com/aminecharro01/Ch-halDaro)
-> Near real-time football live-scores PWA with a backend-for-frontend layer, personalized Web Push alerts, and Gemini-generated match summaries with rule-based fallback. Live on Vercel.
+> Scores the moment they happen: a live football PWA with a backend-for-frontend layer, personalized Web Push alerts, and AI-generated match summaries that only run when someone's actually watching. Deployed live on Vercel.
 > 🔧 **Tech:** Next.js 16, React 19, Supabase, Google Gemini, Web Push.
 
 #### 📚 [GestionBiblioDotNet](https://github.com/aminecharro01/GestionBiblioDotNet)
-> Layered-architecture library management system — automated fine calculation, reservation queues, and a statistics dashboard.
+> No more manual fine calculations: a layered-architecture library system that automates fines, manages reservation queues, and gives staff a real-time statistics dashboard.
 > 🔧 **Tech:** ASP.NET Core 8 MVC, Entity Framework Core, SQL Server, Bootstrap 5.
 
 #### 🏥 [WhiteLab](https://github.com/aminecharro01/WhiteLab)
-> Desktop medical-office management system — patients, medical records, interactive odontogram, scheduling, and billing across role-based dashboards.
+> From intake to billing on one screen: a desktop medical-office system with an interactive odontogram, scheduling, and role-based dashboards for doctors, secretaries, and admins.
 > 🔧 **Tech:** Java, Swing (FlatLaf), MySQL, Maven.
 
 #### ⚖️ [Crime Analytics Dashboard](https://github.com/aminecharro01/crimeAnalytics)
-> A criminal intelligence platform demonstrating **Polyglot Persistence** — Neo4j for network analysis (PageRank), MongoDB, MySQL, and Redis, each chosen for the data shape it suits best.
+> Four databases, one investigation: a criminal intelligence platform using **Polyglot Persistence** — Neo4j for network analysis (PageRank), MongoDB, MySQL, and Redis, each picked for the data shape it's built to handle.
 > 🔧 **Tech:** React.js, Node.js, Express.js, Docker, GraphDB.
 
 #### 🗺️ [Tanmiya Explorer](https://github.com/aminecharro01/Tadla)
-> Smart tourism platform for Morocco's Béni Mellal–Khénifra region — AI itineraries, guide bookings, artisan marketplace.
+> Turning a region into an itinerary: a smart tourism platform for Morocco's Béni Mellal–Khénifra region, generating AI trip plans, guide bookings, and an artisan marketplace.
 > 🔧 **Tech:** React, Vite, Firebase, Google Gemini, Leaflet.js.
 
 #### 🌙 [AdhanTime](https://github.com/aminecharro01/RamadanAdhanTime)
-> A modern spiritual companion for Ramadan 2026. Features a smart Khatmah tracker, dynamic atmosphere, and PWA support.
+> Never miss a prayer, even offline: an installable Ramadan companion with a smart Khatmah tracker that resumes exactly where you left off.
 > 🔧 **Tech:** React.js, Vite, Tailwind CSS, Framer Motion, PWA, LocalStorage.
 
 <p align="center">
