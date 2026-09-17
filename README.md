@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi 👋, I'm Amine Charro</h1>
-<h3 align="center">Future Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Full-Stack Java Developer | Spring Boot · Next.js | Oracle Certified Professional, Java SE 17</h3>
 <p align="center">
   <a href="mailto:aminecharro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/charroamine/"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Charro-blue?style=flat&logo=linkedin" /></a>
@@ -25,6 +25,10 @@
 ---
 
 ### 💼 Featured Projects
+
+#### 📦 [StowFlow](https://github.com/aminecharro01/StowFlow)
+> Multi-tenant SaaS inventory management platform (EMSI PFA, defended June 2026) — stock movements, purchase orders, POS, dashboards, and tenant-isolated RBAC.
+> 🔧 **Tech:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Next.js, TypeScript, Docker Compose, GitHub Actions CI.
 
 #### 🌙 [AdhanTime](https://github.com/aminecharro01/RamadanAdhanTime)
 > A modern spiritual companion for Ramadan 2026. Features a smart Khatmah tracker, dynamic atmosphere, and PWA support.
@@ -57,10 +61,10 @@
 ---
 
 ### 🛠️ Technical Landscape
-- **Frontend:** React.js, React Native, Vite, Tailwind CSS, Bootstrap, jQuery.
-- **Backend:** Node.js, ASP.NET Core, PHP (Laravel), Java (Spring Boot), C++.
-- **Databases:** MySQL, SQL Server, MongoDB, Neo4j, Redis.
-- **Tools & DevOps:** Docker, Git/GitHub, Agile/Scrum, Figma, Adobe Creative Suite.
+- **Backend:** Java (Spring Boot, Spring Security, JPA/Hibernate), Node.js, ASP.NET Core, PHP (Laravel), C++.
+- **Frontend:** Next.js, React.js, TypeScript, React Native, Vite, Tailwind CSS, Bootstrap, jQuery.
+- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Neo4j, Redis.
+- **Tools & DevOps:** Docker, GitHub Actions, Git/GitHub, Agile Methodologies, Figma, Adobe Creative Suite.
 
 <p align="center">
   <img src="metrics.languages.svg" alt="Most used languages" />
@@ -69,6 +73,7 @@
 ---
 
 ### 📜 Certifications & Learning
+- ☕ **Oracle Certified Professional: Java SE 17 Developer** (Oracle)
 - ⚛️ **React Basics & React Native** (Meta)
 - 🤖 **Elements of AI for Business** (MinnaLearn)
 - 📊 **Big Data Technologies & Applications** (Coursera)
