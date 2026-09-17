@@ -9,10 +9,11 @@
 ---
 
 ### 🚀 About Me
-🎓 **Engineering Student (5/5)** at **EMSI Rabat**, specializing in Digital Development & Information Systems.
-💡 Passionate about **Software Engineering**, **Agentic AI**, **Full-Stack Web Development**, and **UI/UX Design**.
-🏢 Former Web Development Intern at **INTELLCAP**, where I contributed to ERP solutions and microservices architectures.
-🔍 Currently exploring the intersection of AI and business to drive digital transformation.
+🎓 **Final-year Software Engineering Student (5/5)** at **EMSI Rabat**, specializing in Digital Development & Information Systems.
+🏅 **Oracle Certified Professional, Java SE 17** — I build full-stack apps with **Spring Boot** on the backend and **Next.js/React** on the frontend.
+🚀 Sole developer of **IAT Academy** (e-learning platform: 179 REST endpoints, 39 JPA entities, 151 automated tests) and co-builder of **StowFlow**, a multi-tenant SaaS inventory platform (EMSI PFA).
+🏢 Former Front-End Web Developer Intern at **INTELLCAP**, working on an ERP solutions platform in an agile team.
+🔍 Seeking a **PFE internship (Feb 2027)** in backend or full-stack Java development.
 
 ---
 
