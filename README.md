@@ -26,6 +26,10 @@
 
 ### 💼 Featured Projects
 
+#### 🎓 [IAT Academy](https://github.com/aminecharro01/E-learning)
+> Full-stack e-learning platform for a 2-year aviation/tourism training program, built solo in 2 months during my internship: 31 REST controllers, 179 endpoints, 39 JPA entities, 45 migrations, 151 automated tests. Server-side progression enforcement, JWT + 2FA + RBAC with resource-level ownership checks, AI content generation with automatic provider failover.
+> 🔧 **Tech:** Spring Boot 3, Java 21, PostgreSQL, Redis, Next.js 15, TypeScript, Docker.
+
 #### 📦 [StowFlow](https://github.com/aminecharro01/StowFlow)
 > Multi-tenant SaaS inventory management platform (EMSI PFA, defended June 2026) — stock movements, purchase orders, POS, dashboards, and tenant-isolated RBAC.
 > 🔧 **Tech:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Next.js, TypeScript, Docker Compose, GitHub Actions CI.
