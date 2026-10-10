@@ -1,4 +1,7 @@
 <!-- HEADER SECTION -->
+
+🔗 Portfolio: https://www.aminecharro.me
+
 <h1 align="center">Hi 👋, I'm Amine Charro</h1>
 <h3 align="center">Full-Stack Java Developer | Spring Boot · Next.js | Oracle Certified Professional, Java SE 17</h3>
 <p align="center">
@@ -83,7 +86,6 @@
 - 📊 **Big Data Technologies & Applications** (Coursera)
 - 🐍 **Python for Data Science, AI & Development** (IBM)
 - 🏗️ **Software Engineering: Design & Project Management** (HKUST)
-
 
 ---
 
